@@ -173,20 +173,20 @@ export default function SalePage() {
       <img
         src={companyLogo}
         alt="Company Logo"
-        className="w-150 h-100 mt-10 mb-1 z-10 drop-shadow-[0_0_30px_rgba(255,215,0,1)]"
+        className="w-120 h-100 mt-10 mb-1 z-10 drop-shadow-[0_0_30px_rgba(255,215,0,1)]"
       />
       {/*รายละเอียด*/}
       <h2 className="text-4xl font-extrabold text-white-500 mb-8 text-center drop-shadow-lg z-10 animate-flicker">
         เว็บตรงอับดับ 1
       </h2>
       <h2 className="text-2l font-extrabold text-white-500 mb-5 text-center drop-shadow-lg z-10 ">
-        การันตีแตกจากผู้เล่นจริงล้านยูสเซอร์ ยูสใหม่ปรับแตก300%
+        การันตีแตก 100% ตั้งแต่ครั้งแรก🎊
       </h2>
       {/* ปุ่ม */}
       <div className="flex flex-col md:flex-row gap-6 mb-12 justify-center items-center z-10">
         {/* สมัครสมาชิก */}
         <a
-            href="https://lin.ee/a6tR9gC"
+            href="https://lin.ee/QFawWFw"
             target="_blank"
             rel="noopener noreferrer"
             className="relative inline-flex items-center justify-center px-12 py-4 
@@ -201,7 +201,7 @@ export default function SalePage() {
 
         {/* ติดต่อสอบถาม */}
         <a
-          href="https://lin.ee/a6tR9gC"
+          href="https://lin.ee/QFawWFw"
           target="_blank"
           rel="noopener noreferrer"
           className="relative inline-flex items-center gap-3 px-10 py-4 
@@ -268,7 +268,7 @@ export default function SalePage() {
                 🟢 ออนไลน์ {onlineCounts[idx].toLocaleString()}
               </p>
               <a
-                href="https://lin.ee/a6tR9gC"
+                href="https://lin.ee/QFawWFw"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block px-8 py-3 
